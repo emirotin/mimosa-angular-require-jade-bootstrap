@@ -1,6 +1,8 @@
 # mimosa-angular-require-jade-bootstrap
 
-A sample project using the following technologies:
+A port of official Angular "Projects" example.
+
+A sample project using the following tools:
 
 * [Mimosa](http://mimosa.io/) for assets transpiling, minification, etc.
 * [Angular](http://angularjs.org/) for client-side coding
